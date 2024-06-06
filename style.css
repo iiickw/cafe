@@ -83,7 +83,7 @@ img{
     background-position:center top;
 }
 #home{
-    background-image: url(../main-bg.jpg);
+    background-image: url("https://github.com/iiickw/cafe/blob/main/main-bg.jpg?raw=true");
     background-blend-mode:luminosity ;
     min-height:100vh;
 }
@@ -94,7 +94,7 @@ img{
 /* NEWS
 -------------------*/
 #news {
-    background-image: url("https://github.com/iiickw/cafe/blob/main/main-bg.jpg?raw=true");
+    background-image: url("https://github.com/iiickw/cafe/blob/main/news-bg.jpg?raw=true");
     height:270px;
     margin-bottom:40px;
 }
@@ -316,7 +316,7 @@ aside p {
 /* MENU
 -------------------------*/
 #menu {
-    background-image: url(../menu-bg.jpg);
+    background-image: url("https://github.com/iiickw/cafe/blob/main/menu-bg.jpg?raw=true");
     min-height: 100vh;
 }
 .menu-content {
@@ -353,7 +353,7 @@ aside p {
 /* CONTACT
 -------------------------*/
 #contact {
-    background-image: url(../contact-bg.jpg);
+    background-image: url("https://github.com/iiickw/cafe/blob/main/contact-bg.jpg?raw=true");
     min-height: 100vh;
 }
 
